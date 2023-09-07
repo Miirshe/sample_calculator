@@ -11,4 +11,4 @@
 <br>
 /Output 
 <br>
-![image](https://github.com/Miirshe/sample_calculator/assets/126691024/071c3219-bd6e-41ea-9ebb-bf8622207876)
+![image](https://github.com/Miirshe/sample_calculator/assets/126691024/74f38b20-b310-4b02-a9c9-2e6199cedef6)
