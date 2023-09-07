@@ -10,3 +10,6 @@
 </ul>
 <br>
 /Output 
+
+![image](https://github.com/Miirshe/sample_calculator/assets/126691024/57f5c07a-516e-458c-b838-fcf0c2cdd490)
+
